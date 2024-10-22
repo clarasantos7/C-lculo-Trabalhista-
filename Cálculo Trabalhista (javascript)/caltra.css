@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(255, 255, 247);
+    font-size: 20px;
+    color: black;
+}
+
+.calc{
+    padding: 20px;
+    border-radius: 10px;
+     box-shadow: 5px 5px 8px rgba(245, 117, 192, 0.678);
+     background-color: rgba(166, 162, 168, 0.733);
+     display: inline-block;
+     justify-content: center;
+    
+    
+}
+
+h1{
+    text-align: center;
+}
+
+#salario{
+    border-radius:5px ;
+    background-color: rgba(255, 252, 252, 0.781);
+}
+
+#vale{
+    border-radius:5px ;
+    background-color:  rgba(255, 252, 252, 0.781);
+}
+
+#dedu{
+    border-radius:5px ; 
+    background-color: rgba(255, 252, 252, 0.781); 
+}
+.container{
+    display: flex;
+     justify-content: center;
+     border-radius: 10px;
+ 
+     align-items: center;
+     min-height: 10vh;
+}
+     
+button{
+    font-size: 12pt;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgb(102, 102, 98);
+    color: white;
+}
